@@ -9,9 +9,7 @@ src="https://firebasestorage.googleapis.com/v0/b/icebasecdn.appspot.com/o/202209
   >
 
 </p>
-
-
-
+The only CSS library you'll ever need,
  
 
    
