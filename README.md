@@ -10,4 +10,4 @@ src="https://firebasestorage.googleapis.com/v0/b/icebasecdn.appspot.com/o/202209
   </div>
  </p>
 
-**With Icebase CSS, you can customize your website with fonts, gradients, buttons and more. All free and open-source on GitHub.**
+**Using Icebase CSS, you can customize your website with fonts, gradients, buttons and more. All free and open-source on GitHub.**
